@@ -1,0 +1,275 @@
+.Welcome-row {
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+.welcome-column {
+    display: flex;
+    background-color: none;
+    float: left;
+    padding: 40px;
+    height: 720px;
+}
+
+.left-one {
+    display: grid;
+    padding-top: 130px;
+    padding-left: 80px;
+    width: 38%;
+    text-align: left;
+}
+
+.right-one {
+    padding-top: 100px;
+    width: 62%;
+    min-width: 50%;
+}
+
+Welcome-row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media screen and (max-width:600px) {
+    .welcome-column {
+        width: 100%;
+        min-width: 300px;
+        height: 400px;
+    }
+
+    .left-one {
+        padding-left: 0px;
+        padding-top: 30px;
+        display: block;
+        text-align: center;
+    }
+
+    .right-one {
+        display: block;
+        position: center;
+    }
+}
+
+.welcome-title {
+    display: block;
+    padding-left: 50px;
+    padding-top: 90px;
+    font-size: 4.5em;
+    font-family: Ubuntu, Arial;
+    font-weight: bold;
+    color: white;
+    text-shadow: 1px 1px 3px pink;
+}
+
+.welcome-description {
+    display: block;
+    padding-left: 50px;
+    font-family: Ubuntu, Arial;
+    font-weight: bold;
+    font-size: 1.3em;
+    color: whitesmoke;
+    text-align: justify;
+}
+
+.welcome-photo {
+    display: block;
+}
+
+.smallSeparatorHorizontal {
+    padding-top: 50px;
+    position: relative;
+}
+
+.second-row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    padding-left: 70px;
+}
+
+.second-row-flexible {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.image-second-line {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 95px;
+    margin-bottom: 30px;
+    width: 250px;
+    height: 150px;
+}
+
+.pic {
+    width: 250px;
+    height: 150px;
+}
+
+.AboutUs-row{
+    width: 100%;
+}
+
+.AboutUs-column {
+    display: flex;
+    background-color: none;
+    float: left;
+    padding: 40px;
+    height: 720px;
+}
+
+.AboutUs-left {
+    padding-top: 100px;
+    padding-left: 100px;
+    width: 30%;
+    text-align: center;
+}
+
+.AboutUs-center {
+    padding-top: 100px;
+    width: 40%;
+    min-width: 50%;
+}
+
+.AboutUs-right {
+    width: 20%;
+    padding-right: 50px;
+}
+
+AboutUs-row:after {
+    content: "";
+    display: inline-block;
+    clear: both;
+    width: 100%;
+}
+
+.AboutUs-title {
+    color: darkslateblue;
+    font: Ubuntu, Arial;
+    font-weight: bold;
+    font-size: 4.5em;
+    text-shadow: 1px 1px 3px pink;
+}
+
+.AboutUs {
+    margin-left: 10px;
+    width: 100%;
+    font-family: Ubuntu, Arial;
+    font-size: 1.5em;
+    color: darkslateblue;
+    line-height: 2em;
+    text-align: justify;
+}
+
+
+@media screen and (max-width:600px) {
+    .AboutUs-row {
+        width: 100%;
+    }
+
+    .AboutUs-column {
+        width: 100%;
+        min-width: 200px;
+    }
+
+    .AboutUs-left {
+        height: 50px;
+        padding-left: 0px;
+        padding-top: 20px;
+        display: block;
+        text-align: center;
+    }
+
+    .AboutUs-center {
+        display: block;
+        position: center;
+        padding-top: 60px;
+    }
+}
+
+.competences {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: #090e28;
+}
+
+.competence-title {
+    margin-top: 30px;
+    font-family: Ubuntu,Arial;
+    font-weight: bold;
+    font-size: 40px;
+    color: whitesmoke;
+}
+
+.competenceslist {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.competence {
+    font-size: 18px;
+    text-align: center;
+    max-width: 580px;
+    line-height: 1.61;
+    margin: 34px;
+}
+
+.competencetitle {
+    font-family: Roboto, Montserrat;
+    font-size: 22px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    color: rgb(151,120,209);
+}
+
+.competencepicture {
+    width: 350px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+
+.competencedescription {
+    font-family: Ubuntu, Arial;
+    display: block;
+    color: lightgray;
+}
+
+.pic-div {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 100px;
+    margin-left: 102px;
+    width: 120px;
+    height: 100px;
+}
+
+.tensor-image {
+    height: 150px;
+}
+
+.numpy-image {
+    margin-top: 30px;
+    width: 120px;
+    height: 80px;
+}
+
+.pyspark-image {
+    margin-top: 30px;
+    margin-right: 90px;
+    width: 150px;
+    height: 80px;
+}

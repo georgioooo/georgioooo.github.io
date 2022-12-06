@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+    <defs>
+        <linearGradient id="24egvpe1da" x1="-189.471%" x2="100%" y1="50%" y2="-105.019%">
+            <stop offset="0%" stop-color="#0077E6"/>
+            <stop offset="100%" stop-color="#0054DB"/>
+        </linearGradient>
+        <linearGradient id="l4d45uy5lb" x1="41.044%" x2="51.87%" y1="50%" y2="-484.933%">
+            <stop offset="0%" stop-color="#0077E6"/>
+            <stop offset="100%" stop-color="#0054DB"/>
+        </linearGradient>
+        <linearGradient id="qvz7cm9m6c" x1="-189.471%" x2="100%" y1="50%" y2="-104.953%">
+            <stop offset="0%" stop-color="#0077E6"/>
+            <stop offset="100%" stop-color="#0054DB"/>
+        </linearGradient>
+        <linearGradient id="51attjzhud" x1="-189.471%" x2="100%" y1="50%" y2="-484.933%">
+            <stop offset="0%" stop-color="#0077E6"/>
+            <stop offset="100%" stop-color="#0054DB"/>
+        </linearGradient>
+        <linearGradient id="x285a4li5e" x1="41.034%" x2="51.872%" y1="50%" y2="-484.933%">
+            <stop offset="0%" stop-color="#0077E6"/>
+            <stop offset="100%" stop-color="#0054DB"/>
+        </linearGradient>
+        <linearGradient id="coqp5aitdf" x1="-189.471%" x2="100%" y1="50%" y2="-105.126%">
+            <stop offset="0%" stop-color="#0077E6"/>
+            <stop offset="100%" stop-color="#0054DB"/>
+        </linearGradient>
+        <linearGradient id="di8kwtqsag" x1="24.854%" x2="55.25%" y1="50%" y2="-484.933%">
+            <stop offset="0%" stop-color="#0077E6"/>
+            <stop offset="100%" stop-color="#0054DB"/>
+        </linearGradient>
+        <linearGradient id="52jh1rcmhh" x1="24.887%" x2="55.243%" y1="50%" y2="-484.933%">
+            <stop offset="0%" stop-color="#0077E6"/>
+            <stop offset="100%" stop-color="#0054DB"/>
+        </linearGradient>
+        <linearGradient id="jkraxdroei" x1="-189.471%" x2="100%" y1="50%" y2="-105.033%">
+            <stop offset="0%" stop-color="#0077E6"/>
+            <stop offset="100%" stop-color="#0054DB"/>
+        </linearGradient>
+        <linearGradient id="l4emyafauj" x1="20.099%" x2="56.243%" y1="50%" y2="-484.933%">
+            <stop offset="0%" stop-color="#0077E6"/>
+            <stop offset="100%" stop-color="#0054DB"/>
+        </linearGradient>
+        <linearGradient id="73yusjwxtk" x1="19.966%" x2="56.271%" y1="50%" y2="-484.933%">
+            <stop offset="0%" stop-color="#0077E6"/>
+            <stop offset="100%" stop-color="#0054DB"/>
+        </linearGradient>
+        <linearGradient id="soro3xa50l" x1="-189.471%" x2="100%" y1="50%" y2="-105.165%">
+            <stop offset="0%" stop-color="#0077E6"/>
+            <stop offset="100%" stop-color="#0054DB"/>
+        </linearGradient>
+        <linearGradient id="ji5516kd1m" x1="20.099%" x2="56.243%" y1="50%" y2="-484.933%">
+            <stop offset="0%" stop-color="#0077E6"/>
+            <stop offset="100%" stop-color="#0054DB"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g stroke-width="2">
+            <g transform="translate(-389.000000, -1559.000000) translate(390.000000, 1560.000000)">
+                <path stroke="url(#24egvpe1da)" d="M28.018 28.183L22.452 31.18"/>
+                <path stroke="url(#l4d45uy5lb)" d="M30.833 15.692L30.833 24.31"/>
+                <path stroke="url(#qvz7cm9m6c)" d="M22.452 8.822L28.013 11.815"/>
+                <circle cx="20" cy="8.333" r="2.5" stroke="url(#51attjzhud)"/>
+                <circle cx="30" cy="26.667" r="2.5" stroke="url(#51attjzhud)"/>
+                <circle cx="30" cy="13.333" r="2.5" stroke="url(#51attjzhud)"/>
+                <path stroke="url(#24egvpe1da)" d="M11.982 28.183L17.548 31.18"/>
+                <path stroke="url(#x285a4li5e)" d="M9.167 15.692L9.167 24.305"/>
+                <circle cx="10" cy="26.667" r="2.5" stroke="url(#51attjzhud)"/>
+                <circle cx="10" cy="13.333" r="2.5" stroke="url(#51attjzhud)"/>
+                <circle cx="20" cy="31.667" r="2.5" stroke="url(#51attjzhud)"/>
+                <path stroke="url(#coqp5aitdf)" d="M18.013 9.852L12.452 12.847"/>
+                <path stroke="url(#di8kwtqsag)" d="M20.833 0.833L20.833 5.977"/>
+                <path stroke="url(#52jh1rcmhh)" d="M19.167 34.02L19.167 39.167"/>
+                <path stroke="url(#jkraxdroei)" d="M1.985 9.852L7.548 12.847"/>
+                <path stroke="url(#l4emyafauj)" d="M.833 10.692c1-.354 1.668-1.299 1.667-2.359 0-1.06-.667-2.005-1.667-2.358"/>
+                <path stroke="url(#coqp5aitdf)" d="M38.013 9.852L32.452 12.847"/>
+                <path stroke="url(#73yusjwxtk)" d="M39.167 10.692c-1.001-.352-1.67-1.298-1.67-2.359 0-1.06.669-2.006 1.67-2.358"/>
+                <path stroke="url(#soro3xa50l)" d="M1.985 30.47L7.623 27.433"/>
+                <path stroke="url(#ji5516kd1m)" d="M.833 29.63c1 .353 1.667 1.297 1.667 2.357.001 1.06-.667 2.006-1.667 2.36"/>
+                <path stroke="url(#soro3xa50l)" d="M38.015 30.47L32.377 27.433"/>
+                <path stroke="url(#73yusjwxtk)" d="M39.167 29.63c-1.001.352-1.67 1.297-1.67 2.358 0 1.061.669 2.007 1.67 2.359"/>
+                <circle cx="10" cy="13.333" r="2.5" stroke="url(#51attjzhud)"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    background-color: white;
+    padding: 80px;
+}
+
+h1 {
+    font-family: Roboto, Arial;
+    color: darkblue;
+}
+
+h2 {
+    font-family: Roboto, Arial;
+    color: darkslategrey;
+}
+
+h3 {
+    font-family: Roboto, Arial;
+    color: black;
+}
+
+li {
+    font-family: Roboto, Arial;
+    font-size: 15px;
+    color: darkmagenta;
+}

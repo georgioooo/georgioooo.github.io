@@ -1,0 +1,52 @@
+.body-forex {
+    width: 70%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 80px;
+    margin-bottom:50px;
+    float: right;
+}
+
+.summary-div {
+    width: 25%;
+    height: 1000px;
+    display: inline-block;
+    vertical-align: top;
+    border-right: 1rem solid;
+    border-right-color: lightblue;
+    position: fixed;
+    left: 0px;
+}
+
+.Summary-title {
+    margin-top: 80px;
+    margin-left: 120px;
+    font-family: Ubuntu, Arial;
+    font-size: 30px;
+    color: darkslateblue;
+}
+
+.summary-content {
+    font-family: Cambria;
+    font-size: 18px;
+    color: darkslateblue;
+    margin-top: 3px;
+}
+
+.machine-learning-forex {
+    width: 80%;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.font-paragraph {
+    font-family: Cambria;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.moving-average-style{
+    margin-top: 20px;
+    width: 300px;
+}

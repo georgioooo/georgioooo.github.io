@@ -1,0 +1,103 @@
+.header {
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: whitesmoke;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+}
+
+
+.left-section {
+    
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 60px;
+    margin-left: 100px;
+}
+
+
+.right-section{
+    
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
+.Home-button {
+    text-decoration: none;
+    font-family: Ubuntu, Arial;
+    font-size: 16px;
+    color: black;
+    background-color: whitesmoke;
+    height: 30px;
+    width: 100px;
+    margin-left: 450px;
+    margin-right: 10px;
+    margin-top: 15px;
+    border-width: 0px;
+}
+
+
+    .Home-button:hover {
+        text-decoration: underline;
+        color: darkblue;
+    }
+
+.Projects-button {
+    text-decoration: none;
+    font-family: Ubuntu, Arial;
+    font-size: 16px;
+    color: black;
+    background-color: whitesmoke;
+    height: 30px;
+    width: 100px; 
+    margin-right: 10px;
+    margin-top: 15px;
+    border-width: 0px;
+}
+
+    .Projects-button:hover {
+        text-decoration: underline;
+        color: darkblue;
+    }
+
+
+.About-us-button {
+    text-decoration: none;
+    font-family: Ubuntu, Arial;
+    font-size: 16px;
+    color: black;
+    background-color: whitesmoke;
+    height: 30px;
+    width: 100px;
+    margin-right: 10px;
+    margin-top: 15px;
+    border-width: 0px;
+}
+
+    .About-us-button:hover {
+        text-decoration: underline;
+        color: darkblue;
+    }
+
+.Careers-button {
+    font-family: Ubuntu, Arial;
+    font-size: 16px;
+    color: black;
+    background-color: whitesmoke;
+    height: 30px;
+    width: 100px;
+    margin-right: 10px;
+    margin-top: 15px;
+    border-width: 0px;
+}

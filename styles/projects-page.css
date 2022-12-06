@@ -1,0 +1,78 @@
+p {
+    font-family: Roboto, Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.tennis-project {
+    margin-top: 20px;
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 30px;
+}
+
+.tennis-photo {
+    width: 300px;
+    margin-bottom: 12px;
+}
+
+.thumbnail-tennis {
+    display: grid;
+    margin-bottom: 12px;
+}
+
+.tennis-info-grid {
+    display: flex;
+    grid-template-columns: 40px, 1fr;
+}
+.tennis-pic {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px
+}
+.tennis-info {
+    margin-top: 0;
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.webscrap-project {
+    margin-top: 20px;
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 30px;
+}
+
+.webscrap-photo {
+    width: 300px;
+    height: 224px;
+    margin-bottom: 12px;
+}
+
+.thumbnail-webscrap {
+    display: grid;
+    margin-bottom: 12px;
+}
+
+.webscrap-info-grid {
+    display: flex;
+    grid-template-columns: 40px, 1fr;
+}
+
+.webscrap-pic {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px
+}
+
+.webscrap-info {
+    margin-top: 0;
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
