@@ -248,23 +248,28 @@
                         <p>In this project we will do the following:</p>
                         <ol role="list">
                             <li>
-                                <a href="forex-project.html#Connecting-to-mt5-Platform">
+                                <a href="#Connecting-to-mt5-Platform">
                                     Connecting to mt5 Platform
                                 </a>
                             </li>
                             <li>
-                                <a href="forex-project.html">
+                                <a href="#Collecting-data">
                                     Collecting data
                                 </a>
                             </li>
                             <li>
-                                <a href="forex-project.html">
+                                <a href="#Creating-new-variables">
                                     Creating new variables
                                 </a>
                             </li>
                             <li>
-                                <a href="forex-project.html">
+                                <a href="#Analytical-study">
                                     Analytical study
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#Modelling">
+                                    Modelling
                                 </a>
                             </li>
                         </ol>
@@ -279,7 +284,7 @@
                                 <img src="icons/forex-project/pic2.png">
                             </div>
                         </figure>
-                        <h2 id="Connecting-to-mt5-Platform" style="position: relative;">
+                        <h2 id="Collecting-data" style="position: relative;">
                             Collecting data
                         </h2>
                         <p>
@@ -309,7 +314,7 @@
                         <p>
                             Our target is to predict the closing price so we have to create a new variables.
                         </p>
-                        <h2 id="Connecting-to-mt5-Platform" style="position: relative;">
+                        <h2 id="Creating-new-variables" style="position: relative;">
                             Creating new variables
                         </h2>
                         <h3 style="margin-top: 0px; color: darkblue;">
@@ -412,7 +417,7 @@
                                 <img src="icons/forex-project/MACD-code.png">
                             </div>
                         </figure>
-                        <h2 id="Connecting-to-mt5-Platform" style="position: relative;">
+                        <h2 id="Analytical-study" style="position: relative;">
                             Analytical Study
                         </h2>
                         <p>
@@ -457,10 +462,10 @@
                                 <img src="icons/forex-project/corr-graphe.png">
                             </div>
                         </figure>
-                        <p class="font-paragraph">
+                        <p>
                             From the above correlation heatmap, one could get some of the following information:
                             <br />
-                            <br />
+                            <br />S
                             - Variables SMA, EMA, TEMA are having strong positive correlation with the closing price.
                             Generally speaking, a Pearson correlation coefficient value greater than 0.7 indicates
                             the presence of multi-collinearity.
@@ -468,6 +473,24 @@
                             <br />
                             - The variable MACD have no correlation with the closing price.
                         </p>
+                        <h3 style="margin-top: 0px; color: darkblue;">
+                            III. descriptive statistics
+                        </h3>
+                        <p>
+                            let we show the central tendency, shape, distribution, and dispersion of variables.
+                        </p>
+                        <figure style="max-width:1000px;">
+                            <div>
+                                <img src="icons/forex-project/describe-code.png">
+                            </div>
+                        </figure>
+                        <p>
+                            As we saw in the above table that the variables 'SMA', 'EMA', 'TEMA', 'Close' have a very close
+                            mean and std, that's mean there no need to normalizing data later.
+                        </p>
+                        <h2 id="Modelling" style="position: relative;">
+                            Modelling
+                        </h2>
                     </div>
                 </div>
             </div>
